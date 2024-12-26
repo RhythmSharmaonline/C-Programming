@@ -2,6 +2,7 @@
 
 int main()
 {
+    //Format Specifier: Symbols which represent data type.
     int a=676;
 
     float b=6.87;
